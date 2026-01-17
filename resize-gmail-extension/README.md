@@ -48,3 +48,17 @@ enlargemail-extension/
 - The extension only works on Gmail (mail.google.com)
 - Settings are synced across devices if you're signed into Chrome
 - Icons are located in `assets/icons/` directory
+
+## Privacy Policy
+
+**Gmail Line Enlarger does not collect, store, or transmit any user data.**
+
+The extension only saves your preferred line height setting (a number between 1.0 and 2.0) locally using Chrome's built-in storage. This setting is stored on your device and may sync through Chrome's sync service if you're signed in - the extension itself does not access or control this sync.
+
+- No personal information is collected
+- No email content is accessed or read
+- No user activity is tracked
+- No data is sent to external servers
+- The extension only modifies CSS styling for visual presentation
+
+Your privacy is protected. If you have questions, please contact us via GitHub issues.\
